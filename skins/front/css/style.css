@@ -1,0 +1,71 @@
+
+* {
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    color: #3a3a3a;
+
+}
+
+body {
+    margin: 0;
+    height: 100%;
+    background-color: #ced4da;
+}
+
+span {
+
+    color: orangered;
+}
+
+.card {
+
+    background-color: whitesmoke;
+}
+
+
+table th, table td {
+
+    color:whitesmoke !important;
+}
+
+#policy-form .error {
+
+    color: orangered;
+}
+
+.navbar-light .navbar-brand {
+
+    color: #ced4da;
+
+}
+
+.navbar-light .navbar-nav .active > .nav-link {
+
+    color: #ffffff;
+}
+
+
+.navbar-light .navbar-nav .nav-link {
+
+    color: #ced4da;
+}
+
+.modal-header {
+    
+    background-color: #f1f1f1;
+}
+
+.repeater span, .repeater i {
+    
+    color: #ffffff;
+}
+
+.repeater small span {
+    
+    color: orangered;
+}
+
+
+
+
+

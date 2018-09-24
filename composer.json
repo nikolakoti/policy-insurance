@@ -1,0 +1,8 @@
+{
+    "name": "koti/paragraflex",
+    "require": {
+        "ivan1986/dev-container": "^0.4.2",
+        "dompdf/dompdf": "^0.8.2",
+        "phpmailer/phpmailer": "^6.0"
+    }
+}
